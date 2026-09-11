@@ -1,0 +1,61 @@
+{
+  "hour_distribution": {
+    "0": 167,
+    "1": 390,
+    "2": 1583,
+    "3": 984,
+    "4": 1282,
+    "5": 1387,
+    "6": 1934,
+    "8": 170,
+    "9": 235,
+    "10": 233,
+    "11": 271,
+    "12": 266,
+    "13": 269,
+    "14": 463,
+    "15": 513,
+    "16": 522,
+    "17": 6066,
+    "18": 212,
+    "19": 77,
+    "21": 169,
+    "22": 1462,
+    "23": 207
+  },
+  "dayofweek_distribution": {
+    "1": 1242,
+    "2": 8462,
+    "3": 9158
+  },
+  "top_search_queries": {
+    "": 6714,
+    "side effects": 880,
+    "drug reaction": 601,
+    "started taking": 565,
+    "withdrawal symptoms": 560,
+    "medication experience": 542,
+    "adverse effect": 502,
+    "prescribed medication": 471,
+    "stopped taking": 429,
+    "dosage change": 414,
+    "drug interaction": 408,
+    "after taking": 329,
+    "side effect report": 204,
+    "medication reaction": 202,
+    "lisdexamfetamine": 199,
+    "escitalopram": 199,
+    "sertraline": 196,
+    "fluoxetine": 196,
+    "duloxetine": 194,
+    "paroxetine": 194
+  },
+  "cluster_distribution": {
+    "0": 7636,
+    "1": 1962,
+    "2": 5387,
+    "3": 1975,
+    "4": 1902
+  },
+  "tsne_points_available": 18862
+}

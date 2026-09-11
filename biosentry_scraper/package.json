@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docx": "^9.6.1",
+    "mongodb": "^7.2.0"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "heatmap_source_hour": {
+    "sources": [
+      "arctic_shift",
+      "drugs_forum",
+      "openfda",
+      "reddit",
+      "reddit_api",
+      "webmd"
+    ],
+    "hours": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      21,
+      22,
+      23
+    ],
+    "data": [
+      {
+        "source": "arctic_shift",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          863,
+          0
+        ]
+      },
+      {
+        "source": "drugs_forum",
+        "values": [
+          14,
+          118,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          123,
+          77,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "source": "openfda",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          5753,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "source": "reddit",
+        "values": [
+          153,
+          272,
+          262,
+          135,
+          0,
+          1,
+          102,
+          170,
+          235,
+          233,
+          271,
+          266,
+          269,
+          463,
+          513,
+          522,
+          313,
+          89,
+          0,
+          169,
+          220,
+          207
+        ]
+      },
+      {
+        "source": "reddit_api",
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          379,
+          0
+        ]
+      },
+      {
+        "source": "webmd",
+        "values": [
+          0,
+          0,
+          1321,
+          849,
+          1282,
+          1386,
+          1832,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "heatmap_drug_source": {
+    "drugs": [
+      "adderall",
+      "azithromycin (z-pack)",
+      "lexapro",
+      "montelukast (singulair)",
+      "pantoprazole (protonix)",
+      "trazodone",
+      "xanax",
+      "zoloft"
+    ],
+    "sources": [
+      "drugs_forum",
+      "openfda",
+      "reddit",
+      "webmd"
+    ],
+    "data": [
+      {
+        "drug": "adderall",
+        "values": [
+          20,
+          30,
+          518,
+          22
+        ]
+      },
+      {
+        "drug": "azithromycin (z-pack)",
+        "values": [
+          0,
+          0,
+          0,
+          581
+        ]
+      },
+      {
+        "drug": "lexapro",
+        "values": [
+          3,
+          54,
+          357,
+          270
+        ]
+      },
+      {
+        "drug": "montelukast (singulair)",
+        "values": [
+          0,
+          0,
+          0,
+          586
+        ]
+      },
+      {
+        "drug": "pantoprazole (protonix)",
+        "values": [
+          0,
+          0,
+          0,
+          588
+        ]
+      },
+      {
+        "drug": "trazodone",
+        "values": [
+          3,
+          213,
+          86,
+          561
+        ]
+      },
+      {
+        "drug": "xanax",
+        "values": [
+          31,
+          92,
+          529,
+          70
+        ]
+      },
+      {
+        "drug": "zoloft",
+        "values": [
+          0,
+          74,
+          356,
+          232
+        ]
+      }
+    ]
+  }
+}

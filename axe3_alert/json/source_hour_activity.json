@@ -1,0 +1,611 @@
+{
+  "top_sources": [
+    "webmd",
+    "openfda",
+    "reddit",
+    "arctic_shift",
+    "reddit_api"
+  ],
+  "data": [
+    {
+      "hour": 0,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 0,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 0,
+      "source": "reddit",
+      "nb_posts": 153
+    },
+    {
+      "hour": 0,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 0,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 1,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 1,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 1,
+      "source": "reddit",
+      "nb_posts": 272
+    },
+    {
+      "hour": 1,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 1,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 2,
+      "source": "webmd",
+      "nb_posts": 1321
+    },
+    {
+      "hour": 2,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 2,
+      "source": "reddit",
+      "nb_posts": 262
+    },
+    {
+      "hour": 2,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 2,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 3,
+      "source": "webmd",
+      "nb_posts": 849
+    },
+    {
+      "hour": 3,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 3,
+      "source": "reddit",
+      "nb_posts": 135
+    },
+    {
+      "hour": 3,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 3,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 4,
+      "source": "webmd",
+      "nb_posts": 1282
+    },
+    {
+      "hour": 4,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 4,
+      "source": "reddit",
+      "nb_posts": 0
+    },
+    {
+      "hour": 4,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 4,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 5,
+      "source": "webmd",
+      "nb_posts": 1386
+    },
+    {
+      "hour": 5,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 5,
+      "source": "reddit",
+      "nb_posts": 1
+    },
+    {
+      "hour": 5,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 5,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 6,
+      "source": "webmd",
+      "nb_posts": 1832
+    },
+    {
+      "hour": 6,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 6,
+      "source": "reddit",
+      "nb_posts": 102
+    },
+    {
+      "hour": 6,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 6,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 7,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 7,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 7,
+      "source": "reddit",
+      "nb_posts": 0
+    },
+    {
+      "hour": 7,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 7,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 8,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 8,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 8,
+      "source": "reddit",
+      "nb_posts": 170
+    },
+    {
+      "hour": 8,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 8,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 9,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 9,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 9,
+      "source": "reddit",
+      "nb_posts": 235
+    },
+    {
+      "hour": 9,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 9,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 10,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 10,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 10,
+      "source": "reddit",
+      "nb_posts": 233
+    },
+    {
+      "hour": 10,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 10,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 11,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 11,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 11,
+      "source": "reddit",
+      "nb_posts": 271
+    },
+    {
+      "hour": 11,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 11,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 12,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 12,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 12,
+      "source": "reddit",
+      "nb_posts": 266
+    },
+    {
+      "hour": 12,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 12,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 13,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 13,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 13,
+      "source": "reddit",
+      "nb_posts": 269
+    },
+    {
+      "hour": 13,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 13,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 14,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 14,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 14,
+      "source": "reddit",
+      "nb_posts": 463
+    },
+    {
+      "hour": 14,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 14,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 15,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 15,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 15,
+      "source": "reddit",
+      "nb_posts": 513
+    },
+    {
+      "hour": 15,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 15,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 16,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 16,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 16,
+      "source": "reddit",
+      "nb_posts": 522
+    },
+    {
+      "hour": 16,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 16,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 17,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 17,
+      "source": "openfda",
+      "nb_posts": 5753
+    },
+    {
+      "hour": 17,
+      "source": "reddit",
+      "nb_posts": 313
+    },
+    {
+      "hour": 17,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 17,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 18,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 18,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 18,
+      "source": "reddit",
+      "nb_posts": 89
+    },
+    {
+      "hour": 18,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 18,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 19,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 19,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 19,
+      "source": "reddit",
+      "nb_posts": 0
+    },
+    {
+      "hour": 19,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 19,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 20,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 20,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 20,
+      "source": "reddit",
+      "nb_posts": 0
+    },
+    {
+      "hour": 20,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 20,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 21,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 21,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 21,
+      "source": "reddit",
+      "nb_posts": 169
+    },
+    {
+      "hour": 21,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 21,
+      "source": "reddit_api",
+      "nb_posts": 0
+    },
+    {
+      "hour": 22,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 22,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 22,
+      "source": "reddit",
+      "nb_posts": 220
+    },
+    {
+      "hour": 22,
+      "source": "arctic_shift",
+      "nb_posts": 863
+    },
+    {
+      "hour": 22,
+      "source": "reddit_api",
+      "nb_posts": 379
+    },
+    {
+      "hour": 23,
+      "source": "webmd",
+      "nb_posts": 0
+    },
+    {
+      "hour": 23,
+      "source": "openfda",
+      "nb_posts": 0
+    },
+    {
+      "hour": 23,
+      "source": "reddit",
+      "nb_posts": 207
+    },
+    {
+      "hour": 23,
+      "source": "arctic_shift",
+      "nb_posts": 0
+    },
+    {
+      "hour": 23,
+      "source": "reddit_api",
+      "nb_posts": 0
+    }
+  ]
+}

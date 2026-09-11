@@ -1,0 +1,974 @@
+{
+  "top_drugs": [
+    "trazodone",
+    "xanax",
+    "lexapro",
+    "zoloft",
+    "adderall",
+    "pantoprazole (protonix)",
+    "montelukast (singulair)",
+    "azithromycin (z-pack)"
+  ],
+  "data": [
+    {
+      "hour": 0,
+      "drugs_mentioned": "trazodone",
+      "mentions": 2
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "xanax",
+      "mentions": 6
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "lexapro",
+      "mentions": 5
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "zoloft",
+      "mentions": 5
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "adderall",
+      "mentions": 26
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 0,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "trazodone",
+      "mentions": 2
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "xanax",
+      "mentions": 22
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "lexapro",
+      "mentions": 12
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "zoloft",
+      "mentions": 10
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "adderall",
+      "mentions": 25
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 1,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "trazodone",
+      "mentions": 5
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "xanax",
+      "mentions": 58
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "lexapro",
+      "mentions": 241
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "zoloft",
+      "mentions": 228
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "adderall",
+      "mentions": 24
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 1
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 1
+    },
+    {
+      "hour": 2,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "trazodone",
+      "mentions": 4
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "xanax",
+      "mentions": 3
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "lexapro",
+      "mentions": 30
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "zoloft",
+      "mentions": 4
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "adderall",
+      "mentions": 4
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 3,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 36
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "trazodone",
+      "mentions": 0
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "xanax",
+      "mentions": 0
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "lexapro",
+      "mentions": 1
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "zoloft",
+      "mentions": 1
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "adderall",
+      "mentions": 0
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 4,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 545
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "trazodone",
+      "mentions": 0
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "xanax",
+      "mentions": 0
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "lexapro",
+      "mentions": 1
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "zoloft",
+      "mentions": 0
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "adderall",
+      "mentions": 0
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 587
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 5,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "trazodone",
+      "mentions": 556
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "xanax",
+      "mentions": 13
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "lexapro",
+      "mentions": 3
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "zoloft",
+      "mentions": 7
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "adderall",
+      "mentions": 4
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 585
+    },
+    {
+      "hour": 6,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "trazodone",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "xanax",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "lexapro",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "zoloft",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "adderall",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 7,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "trazodone",
+      "mentions": 1
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "xanax",
+      "mentions": 2
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "lexapro",
+      "mentions": 1
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "zoloft",
+      "mentions": 3
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "adderall",
+      "mentions": 3
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 8,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "trazodone",
+      "mentions": 0
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "xanax",
+      "mentions": 13
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "lexapro",
+      "mentions": 0
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "zoloft",
+      "mentions": 1
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "adderall",
+      "mentions": 17
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 9,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "trazodone",
+      "mentions": 5
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "xanax",
+      "mentions": 50
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "lexapro",
+      "mentions": 8
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "zoloft",
+      "mentions": 8
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "adderall",
+      "mentions": 55
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 10,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "trazodone",
+      "mentions": 5
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "xanax",
+      "mentions": 104
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "lexapro",
+      "mentions": 11
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "zoloft",
+      "mentions": 13
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "adderall",
+      "mentions": 76
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 11,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "trazodone",
+      "mentions": 1
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "xanax",
+      "mentions": 63
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "lexapro",
+      "mentions": 5
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "zoloft",
+      "mentions": 13
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "adderall",
+      "mentions": 47
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 12,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "trazodone",
+      "mentions": 1
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "xanax",
+      "mentions": 37
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "lexapro",
+      "mentions": 34
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "zoloft",
+      "mentions": 47
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "adderall",
+      "mentions": 26
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 13,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "trazodone",
+      "mentions": 15
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "xanax",
+      "mentions": 62
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "lexapro",
+      "mentions": 75
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "zoloft",
+      "mentions": 74
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "adderall",
+      "mentions": 26
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 14,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "trazodone",
+      "mentions": 15
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "xanax",
+      "mentions": 87
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "lexapro",
+      "mentions": 70
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "zoloft",
+      "mentions": 71
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "adderall",
+      "mentions": 38
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 15,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "trazodone",
+      "mentions": 13
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "xanax",
+      "mentions": 47
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "lexapro",
+      "mentions": 92
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "zoloft",
+      "mentions": 66
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "adderall",
+      "mentions": 66
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 16,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "trazodone",
+      "mentions": 218
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "xanax",
+      "mentions": 109
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "lexapro",
+      "mentions": 76
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "zoloft",
+      "mentions": 94
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "adderall",
+      "mentions": 59
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 17,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "trazodone",
+      "mentions": 3
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "xanax",
+      "mentions": 13
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "lexapro",
+      "mentions": 4
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "zoloft",
+      "mentions": 1
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "adderall",
+      "mentions": 13
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 18,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "trazodone",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "xanax",
+      "mentions": 1
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "lexapro",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "zoloft",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "adderall",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 19,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "trazodone",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "xanax",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "lexapro",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "zoloft",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "adderall",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 20,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "trazodone",
+      "mentions": 4
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "xanax",
+      "mentions": 9
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "lexapro",
+      "mentions": 2
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "zoloft",
+      "mentions": 3
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "adderall",
+      "mentions": 14
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 21,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "trazodone",
+      "mentions": 9
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "xanax",
+      "mentions": 12
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "lexapro",
+      "mentions": 6
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "zoloft",
+      "mentions": 3
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "adderall",
+      "mentions": 23
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 22,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "trazodone",
+      "mentions": 4
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "xanax",
+      "mentions": 11
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "lexapro",
+      "mentions": 7
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "zoloft",
+      "mentions": 10
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "adderall",
+      "mentions": 44
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "pantoprazole (protonix)",
+      "mentions": 0
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "montelukast (singulair)",
+      "mentions": 0
+    },
+    {
+      "hour": 23,
+      "drugs_mentioned": "azithromycin (z-pack)",
+      "mentions": 0
+    }
+  ]
+}

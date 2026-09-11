@@ -1,0 +1,10 @@
+pymongo==4.6.1
+transformers==4.40.0
+torch==2.2.2
+nltk==3.8.1
+tqdm==4.66.2
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+spacy==3.7.4
+scispacy==0.5.4

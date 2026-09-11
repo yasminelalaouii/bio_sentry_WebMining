@@ -1,0 +1,6 @@
+pymongo[srv]>=4.6
+dnspython>=2.4
+networkx>=3.2
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8

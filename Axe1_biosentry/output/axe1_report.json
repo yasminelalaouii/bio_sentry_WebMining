@@ -1,0 +1,339 @@
+{
+  "_id": "axe1_latest",
+  "generated_at": "2026-05-19T11:31:37.215929+00:00",
+  "summary": {
+    "total_documents_processed": 1005,
+    "total_entities_extracted": 324388,
+    "total_relations_classified": 24586,
+    "total_adverse_effects_detected": 11048,
+    "avg_entities_per_doc": 322.77,
+    "avg_adverse_per_doc": 10.99
+  },
+  "entity_distribution": {
+    "Diagnostic_procedure": 55843,
+    "Time": 1999,
+    "Detailed_description": 42916,
+    "Medication": 44476,
+    "Dosage": 8457,
+    "Date": 3227,
+    "Age": 265,
+    "Subject": 2221,
+    "Therapeutic_procedure": 5189,
+    "Sign_symptom": 31147,
+    "Lab_value": 72390,
+    "Biological_structure": 4991,
+    "Duration": 4640,
+    "Coreference": 5843,
+    "Clinical_event": 2880,
+    "Nonbiological_location": 3118,
+    "Severity": 2385,
+    "Disease_disorder": 10299,
+    "History": 9030,
+    "Occupation": 1350,
+    "Other_event": 327,
+    "Frequency": 2481,
+    "Texture": 25,
+    "Administration": 854,
+    "Activity": 6596,
+    "Sex": 499,
+    "Distance": 26,
+    "Personal_background": 85,
+    "Quantitative_concept": 143,
+    "Outcome": 289,
+    "Family_history": 228,
+    "Color": 79,
+    "Shape": 12,
+    "Qualitative_concept": 24,
+    "Area": 7,
+    "Other_entity": 34,
+    "Volume": 13
+  },
+  "top_drugs_mentioned": [],
+  "top_symptoms_mentioned": [
+    [
+      "anxiety",
+      1024
+    ],
+    [
+      "pain",
+      862
+    ],
+    [
+      "mental health disorder",
+      808
+    ],
+    [
+      "ai",
+      615
+    ],
+    [
+      "md",
+      574
+    ],
+    [
+      "mod",
+      526
+    ],
+    [
+      "un",
+      455
+    ],
+    [
+      "depression",
+      441
+    ],
+    [
+      "disruptive posts",
+      411
+    ],
+    [
+      "##th",
+      410
+    ],
+    [
+      "no",
+      409
+    ],
+    [
+      "serious",
+      405
+    ],
+    [
+      "serious mental disorders",
+      404
+    ],
+    [
+      "grasp on reality",
+      404
+    ],
+    [
+      "mental health condition",
+      404
+    ],
+    [
+      "people ’ s self - destructive impulses",
+      404
+    ],
+    [
+      "side effects",
+      360
+    ],
+    [
+      "symptoms",
+      335
+    ],
+    [
+      "headache",
+      326
+    ],
+    [
+      "ns",
+      319
+    ]
+  ],
+  "relation_distribution": {
+    "treatment response": 7344,
+    "adverse drug effect": 15610,
+    "symptom of underlying disease": 1057,
+    "unrelated": 575
+  },
+  "pharmacovigilance_signals": {
+    "top_drug_effect_pairs": [
+      {
+        "drug": "medication",
+        "effect": "side effects",
+        "count": 13
+      },
+      {
+        "drug": "ash",
+        "effect": "side effects",
+        "count": 12
+      },
+      {
+        "drug": "medication",
+        "effect": "h",
+        "count": 10
+      },
+      {
+        "drug": "##dha",
+        "effect": "side effects",
+        "count": 9
+      },
+      {
+        "drug": "caf",
+        "effect": "anxiety",
+        "count": 8
+      },
+      {
+        "drug": "pfizer",
+        "effect": "side effects",
+        "count": 7
+      },
+      {
+        "drug": "amp",
+        "effect": "cognitive impairment",
+        "count": 7
+      },
+      {
+        "drug": "piracetam",
+        "effect": "tired",
+        "count": 7
+      },
+      {
+        "drug": "caf",
+        "effect": "na",
+        "count": 7
+      },
+      {
+        "drug": "caf",
+        "effect": "##useous",
+        "count": 7
+      },
+      {
+        "drug": "caf",
+        "effect": "##ginous",
+        "count": 7
+      },
+      {
+        "drug": "ni",
+        "effect": "flushing",
+        "count": 7
+      },
+      {
+        "drug": "pantocalcin",
+        "effect": "allergies",
+        "count": 7
+      },
+      {
+        "drug": "pantocalcin",
+        "effect": "vomiting",
+        "count": 7
+      },
+      {
+        "drug": "antibiotics",
+        "effect": "reaction",
+        "count": 6
+      },
+      {
+        "drug": "medication",
+        "effect": "pain",
+        "count": 6
+      },
+      {
+        "drug": "suboxone",
+        "effect": "##ss",
+        "count": 6
+      },
+      {
+        "drug": "selank",
+        "effect": "anxiety",
+        "count": 6
+      },
+      {
+        "drug": "pregnenolone",
+        "effect": "adverse side effects",
+        "count": 6
+      },
+      {
+        "drug": "pea",
+        "effect": "let",
+        "count": 6
+      }
+    ],
+    "most_implicated_drugs": [
+      [
+        "medication",
+        180
+      ],
+      [
+        "ph",
+        139
+      ],
+      [
+        "caf",
+        137
+      ],
+      [
+        "add",
+        107
+      ],
+      [
+        "amp",
+        107
+      ],
+      [
+        "pi",
+        87
+      ],
+      [
+        "supplements",
+        79
+      ],
+      [
+        "##erall",
+        76
+      ],
+      [
+        "magnesium",
+        75
+      ],
+      [
+        "se",
+        70
+      ]
+    ],
+    "most_reported_adverse_symptoms": [
+      [
+        "anxiety",
+        277
+      ],
+      [
+        "side effects",
+        202
+      ],
+      [
+        "md",
+        175
+      ],
+      [
+        "headache",
+        127
+      ],
+      [
+        "no",
+        125
+      ],
+      [
+        "depression",
+        122
+      ],
+      [
+        "tired",
+        119
+      ],
+      [
+        "pain",
+        108
+      ],
+      [
+        "effects",
+        97
+      ],
+      [
+        "depressed",
+        95
+      ]
+    ]
+  },
+  "data_sources": {
+    "by_forum": {
+      "r/AskDocs": 316,
+      "r/medicine": 87,
+      "r/Nootropics": 467,
+      "r/Supplements": 135
+    },
+    "by_source": {
+      "reddit": 1005
+    }
+  }
+}

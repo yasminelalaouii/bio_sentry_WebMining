@@ -1,0 +1,4 @@
+Approche,Précision,Rappel,F1-Score,Vitesse (s),Mémoire,Interprétable
+Règles + Dictionnaire,0.833,0.625,0.714,0.0,~10 MB,✓ Oui
+scispaCy (en_core_sci_sm),0.0,0.0,0.0,0.0541,~100 MB,~ Partiel
+BioBERT (d4data/biomedical-ner-all),0.89,0.84,0.86,~2.0,~1.5 GB,✗ Boîte noire
