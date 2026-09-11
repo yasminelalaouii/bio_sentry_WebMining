@@ -1,0 +1,154 @@
+{
+  "seuil_z": 2.0,
+  "mean_posts": 785.92,
+  "std_posts": 1256.27,
+  "upper_bound": 3298.46,
+  "lower_bound": -1726.62,
+  "anomaly_count": 1,
+  "data": [
+    {
+      "hour": 0,
+      "nb_posts": 167,
+      "zscore": -0.503,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 1,
+      "nb_posts": 390,
+      "zscore": -0.322,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 2,
+      "nb_posts": 1583,
+      "zscore": 0.648,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 3,
+      "nb_posts": 984,
+      "zscore": 0.161,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 4,
+      "nb_posts": 1282,
+      "zscore": 0.403,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 5,
+      "nb_posts": 1387,
+      "zscore": 0.489,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 6,
+      "nb_posts": 1934,
+      "zscore": 0.934,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 7,
+      "nb_posts": 0,
+      "zscore": -0.639,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 8,
+      "nb_posts": 170,
+      "zscore": -0.501,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 9,
+      "nb_posts": 235,
+      "zscore": -0.448,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 10,
+      "nb_posts": 233,
+      "zscore": -0.45,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 11,
+      "nb_posts": 271,
+      "zscore": -0.419,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 12,
+      "nb_posts": 266,
+      "zscore": -0.423,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 13,
+      "nb_posts": 269,
+      "zscore": -0.42,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 14,
+      "nb_posts": 463,
+      "zscore": -0.263,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 15,
+      "nb_posts": 513,
+      "zscore": -0.222,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 16,
+      "nb_posts": 522,
+      "zscore": -0.215,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 17,
+      "nb_posts": 6066,
+      "zscore": 4.293,
+      "anomaly_zscore": true
+    },
+    {
+      "hour": 18,
+      "nb_posts": 212,
+      "zscore": -0.467,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 19,
+      "nb_posts": 77,
+      "zscore": -0.576,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 20,
+      "nb_posts": 0,
+      "zscore": -0.639,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 21,
+      "nb_posts": 169,
+      "zscore": -0.502,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 22,
+      "nb_posts": 1462,
+      "zscore": 0.55,
+      "anomaly_zscore": false
+    },
+    {
+      "hour": 23,
+      "nb_posts": 207,
+      "zscore": -0.471,
+      "anomaly_zscore": false
+    }
+  ]
+}

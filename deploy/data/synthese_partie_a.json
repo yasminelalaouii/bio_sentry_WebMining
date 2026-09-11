@@ -1,0 +1,64 @@
+{
+  "dataset": {
+    "total_documents": 18862,
+    "total_sources": 6,
+    "distinct_drugs": 8294,
+    "peak_hour": 17,
+    "peak_posts": 6066
+  },
+  "anomalies": {
+    "zscore_count": 1,
+    "ma_count": 0,
+    "if_count": 4,
+    "consensus_2of3": 1
+  },
+  "critical_hours": [
+    {
+      "hour": 17,
+      "nb_posts": 6066,
+      "nb_methods": 2
+    }
+  ],
+  "top_drugs": [
+    {
+      "mentions": "trazodone",
+      "count": 863
+    },
+    {
+      "mentions": "xanax",
+      "count": 722
+    },
+    {
+      "mentions": "lexapro",
+      "count": 684
+    },
+    {
+      "mentions": "zoloft",
+      "count": 662
+    },
+    {
+      "mentions": "adderall",
+      "count": 590
+    },
+    {
+      "mentions": "pantoprazole (protonix)",
+      "count": 588
+    },
+    {
+      "mentions": "montelukast (singulair)",
+      "count": 586
+    },
+    {
+      "mentions": "azithromycin (z-pack)",
+      "count": 581
+    },
+    {
+      "mentions": "gabapentin",
+      "count": 577
+    },
+    {
+      "mentions": "sertraline",
+      "count": 554
+    }
+  ]
+}

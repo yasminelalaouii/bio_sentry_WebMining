@@ -1,0 +1,589 @@
+{
+  "generated_at": "2026-05-13T10:47:31.384342Z",
+  "algorithms": [
+    "HITS",
+    "PageRank",
+    "Degree Centrality"
+  ],
+  "graph": {
+    "nodes": 24444,
+    "edges": 2501423
+  },
+  "total_documents": 24444,
+  "source_summary": [
+    {
+      "source": "arctic_shift",
+      "src_type": "hub",
+      "doc_count": 824,
+      "hits_auth_avg": 0.0,
+      "pagerank_avg": 4.842e-05,
+      "degree_in_avg": 0.0,
+      "composite_avg": 0.02890186,
+      "struct_dist_med": 1000000000000.0
+    },
+    {
+      "source": "drugs_forum",
+      "src_type": "hub",
+      "doc_count": 333,
+      "hits_auth_avg": 0.0,
+      "pagerank_avg": 3.913e-05,
+      "degree_in_avg": 0.0,
+      "composite_avg": 0.02335866,
+      "struct_dist_med": 1000000000000.0
+    },
+    {
+      "source": "openfda",
+      "src_type": "authority",
+      "doc_count": 5809,
+      "hits_auth_avg": 0.00010629,
+      "pagerank_avg": 3.339e-05,
+      "degree_in_avg": 0.01168315,
+      "composite_avg": 0.08627634,
+      "struct_dist_med": 18187.99096627
+    },
+    {
+      "source": "reddit",
+      "src_type": "hub",
+      "doc_count": 10807,
+      "hits_auth_avg": 0.0,
+      "pagerank_avg": 4.908e-05,
+      "degree_in_avg": 0.0,
+      "composite_avg": 0.02929385,
+      "struct_dist_med": 1000000000000.0
+    },
+    {
+      "source": "reddit_rss",
+      "src_type": "hub",
+      "doc_count": 1,
+      "hits_auth_avg": 0.0,
+      "pagerank_avg": 3.339e-05,
+      "degree_in_avg": 0.0,
+      "composite_avg": 0.0199304,
+      "struct_dist_med": 1000000000000.0
+    },
+    {
+      "source": "webmd",
+      "src_type": "authority",
+      "doc_count": 6670,
+      "hits_auth_avg": 5.735e-05,
+      "pagerank_avg": 3.339e-05,
+      "degree_in_avg": 0.00516785,
+      "composite_avg": 0.053037,
+      "struct_dist_med": 1000000000000.0
+    }
+  ],
+  "top_authorities": [
+    {
+      "id": "openfda_10003756",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0009163344588305716,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.1406946774127562,
+      "composite_authority": 0.6865970629392913,
+      "n_drugs": 24
+    },
+    {
+      "id": "openfda_10022313",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0008918958158958777,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.11001104610726997,
+      "composite_authority": 0.6050115108558726,
+      "n_drugs": 31
+    },
+    {
+      "id": "openfda_10421621",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.00084742601490925,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.10931555046434561,
+      "composite_authority": 0.5871870457536187,
+      "n_drugs": 20
+    },
+    {
+      "id": "webmd_detail_21e1870426c1",
+      "source": "webmd",
+      "src_type": "authority",
+      "hits_authority": 0.0008043180339159327,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.11172932946037721,
+      "composite_authority": 0.5772244499580826,
+      "n_drugs": 8
+    },
+    {
+      "id": "openfda_10006323",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007851394816722338,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.10800638219531154,
+      "composite_authority": 0.5614275090823991,
+      "n_drugs": 20
+    },
+    {
+      "id": "openfda_10088772",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007820677226182186,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.10338338174528496,
+      "composite_authority": 0.5493573044774954,
+      "n_drugs": 23
+    },
+    {
+      "id": "openfda_10182988",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.000750944144493759,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.10084686822403142,
+      "composite_authority": 0.5320260377265652,
+      "n_drugs": 30
+    },
+    {
+      "id": "openfda_10025063",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007266605732255073,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.10231968252669475,
+      "composite_authority": 0.5266818332647749,
+      "n_drugs": 74
+    },
+    {
+      "id": "webmd_detail_bdba71f57121",
+      "source": "webmd",
+      "src_type": "authority",
+      "hits_authority": 0.0007343795544988797,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.09855582375322178,
+      "composite_authority": 0.5205724322305478,
+      "n_drugs": 16
+    },
+    {
+      "id": "openfda_10056761",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007596722334247773,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.09192815939123676,
+      "composite_authority": 0.514070865391137,
+      "n_drugs": 7
+    },
+    {
+      "id": "openfda_10071059",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007596722334247773,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.09192815939123676,
+      "composite_authority": 0.514070865391137,
+      "n_drugs": 7
+    },
+    {
+      "id": "openfda_10079812",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007683347100285919,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08701877838235896,
+      "composite_authority": 0.5055907107126268,
+      "n_drugs": 20
+    },
+    {
+      "id": "webmd_rv_cee8bda21581_p24_r16_5464e05b",
+      "source": "webmd",
+      "src_type": "authority",
+      "hits_authority": 0.0007728056124774065,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08505502597880783,
+      "composite_authority": 0.5025645675646384,
+      "n_drugs": 5
+    },
+    {
+      "id": "webmd_rv_eb3d745ccf15_p7_r14_eac4346b",
+      "source": "webmd",
+      "src_type": "authority",
+      "hits_authority": 0.0007858747181851851,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.0805956715624105,
+      "composite_authority": 0.49675360582060146,
+      "n_drugs": 6
+    },
+    {
+      "id": "webmd_rv_cee8bda21581_p24_r0_d1e6b777",
+      "source": "webmd",
+      "src_type": "authority",
+      "hits_authority": 0.0007622317905474353,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08264124698277625,
+      "composite_authority": 0.49299943075578095,
+      "n_drugs": 4
+    },
+    {
+      "id": "openfda_10022462",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007424843467307643,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08542322955447368,
+      "composite_authority": 0.49240700203764326,
+      "n_drugs": 13
+    },
+    {
+      "id": "openfda_10012865",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.000733640538803212,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08350038865932986,
+      "composite_authority": 0.48463431811791063,
+      "n_drugs": 7
+    },
+    {
+      "id": "openfda_10026610",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007116098648068798,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08198666284825921,
+      "composite_authority": 0.4730339457319476,
+      "n_drugs": 22
+    },
+    {
+      "id": "openfda_10043231",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.000701369118867753,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08325491960888598,
+      "composite_authority": 0.47231343749920285,
+      "n_drugs": 9
+    },
+    {
+      "id": "openfda_10274844",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0006517493860067218,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.09074172564742462,
+      "composite_authority": 0.4720010712449018,
+      "n_drugs": 9
+    },
+    {
+      "id": "openfda_10080970",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007099026103133011,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.0808820521212617,
+      "composite_authority": 0.4697958610076589,
+      "n_drugs": 7
+    },
+    {
+      "id": "openfda_10023413",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.00071904702170913,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.0792046802765618,
+      "composite_authority": 0.46914828358768096,
+      "n_drugs": 7
+    },
+    {
+      "id": "webmd_rv_cee8bda21581_p14_r9_1f447610",
+      "source": "webmd",
+      "src_type": "authority",
+      "hits_authority": 0.0007113995690666581,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.07936832631019106,
+      "composite_authority": 0.46675409314186905,
+      "n_drugs": 3
+    },
+    {
+      "id": "openfda_10028516",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0006578930606129462,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08750971648324674,
+      "composite_authority": 0.4665786799641926,
+      "n_drugs": 40
+    },
+    {
+      "id": "openfda_10042849",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0006403626604490517,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08996440698768564,
+      "composite_authority": 0.46601732200494767,
+      "n_drugs": 9
+    },
+    {
+      "id": "openfda_10011139",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007164851063978181,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.07629996317964244,
+      "composite_authority": 0.4613344947790519,
+      "n_drugs": 14
+    },
+    {
+      "id": "openfda_10020417",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0007182283743931822,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.07580902507875466,
+      "composite_authority": 0.46080551141626325,
+      "n_drugs": 6
+    },
+    {
+      "id": "openfda_10025792",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0006784725757843592,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.08190483983144459,
+      "composite_authority": 0.46078579908301903,
+      "n_drugs": 16
+    },
+    {
+      "id": "openfda_10017218",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0006986590359292538,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.07576811357034734,
+      "composite_authority": 0.4535898810660586,
+      "n_drugs": 8
+    },
+    {
+      "id": "openfda_10032905",
+      "source": "openfda",
+      "src_type": "authority",
+      "hits_authority": 0.0006721529433530955,
+      "pagerank": 3.3389644596760336e-05,
+      "degree_in_norm": 0.07940923781859838,
+      "composite_authority": 0.45257434631055643,
+      "n_drugs": 9
+    }
+  ],
+  "top_hubs": [
+    {
+      "id": "1cxwd7j",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0012240309964508937,
+      "n_drugs": 36
+    },
+    {
+      "id": "reddit_1cxwd7j",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0012240309964508937,
+      "n_drugs": 36
+    },
+    {
+      "id": "1npf427",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0010742331032345446,
+      "n_drugs": 22
+    },
+    {
+      "id": "reddit_1npf427",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0010742331032345446,
+      "n_drugs": 22
+    },
+    {
+      "id": "astuc5",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0010490530683128494,
+      "n_drugs": 21
+    },
+    {
+      "id": "reddit_astuc5",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0010490530683128494,
+      "n_drugs": 21
+    },
+    {
+      "id": "1hca41v",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0010369965376966965,
+      "n_drugs": 28
+    },
+    {
+      "id": "reddit_1hca41v",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0010369965376966965,
+      "n_drugs": 28
+    },
+    {
+      "id": "1gyf99v",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009952560483053438,
+      "n_drugs": 18
+    },
+    {
+      "id": "reddit_1gyf99v",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009952560483053438,
+      "n_drugs": 18
+    },
+    {
+      "id": "12mqv25",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009733665166391736,
+      "n_drugs": 19
+    },
+    {
+      "id": "reddit_12mqv25",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009733665166391736,
+      "n_drugs": 19
+    },
+    {
+      "id": "1rfm3il",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009662693681823435,
+      "n_drugs": 15
+    },
+    {
+      "id": "reddit_1rfm3il",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009662693681823435,
+      "n_drugs": 15
+    },
+    {
+      "id": "mhz4nw",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.000959709635527714,
+      "n_drugs": 14
+    },
+    {
+      "id": "reddit_mhz4nw",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.000959709635527714,
+      "n_drugs": 14
+    },
+    {
+      "id": "1i0fwvm",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009585112229416514,
+      "n_drugs": 15
+    },
+    {
+      "id": "reddit_1i0fwvm",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009585112229416514,
+      "n_drugs": 15
+    },
+    {
+      "id": "1ed7d5y",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009564802882712373,
+      "n_drugs": 18
+    },
+    {
+      "id": "reddit_1ed7d5y",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009564802882712373,
+      "n_drugs": 18
+    },
+    {
+      "id": "zrgx1h",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009447785884350866,
+      "n_drugs": 14
+    },
+    {
+      "id": "reddit_zrgx1h",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009447785884350866,
+      "n_drugs": 14
+    },
+    {
+      "id": "1jnyaug",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009232515960989104,
+      "n_drugs": 23
+    },
+    {
+      "id": "reddit_1jnyaug",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009232515960989104,
+      "n_drugs": 23
+    },
+    {
+      "id": "1b9kvjr",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009008800796902037,
+      "n_drugs": 15
+    },
+    {
+      "id": "reddit_1b9kvjr",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0009008800796902037,
+      "n_drugs": 15
+    },
+    {
+      "id": "1cr4jo0",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.000887980878479385,
+      "n_drugs": 16
+    },
+    {
+      "id": "reddit_1cr4jo0",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.000887980878479385,
+      "n_drugs": 16
+    },
+    {
+      "id": "1kylyvl",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0008765577287451275,
+      "n_drugs": 10
+    },
+    {
+      "id": "reddit_1kylyvl",
+      "source": "reddit",
+      "src_type": "hub",
+      "hits_hub": 0.0008765577287451275,
+      "n_drugs": 10
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "hour": 0,
+    "nb_posts": 167,
+    "avg_comments": 19.820359281437124,
+    "total_comments": 3310
+  },
+  {
+    "hour": 1,
+    "nb_posts": 390,
+    "avg_comments": 16.356410256410257,
+    "total_comments": 6379
+  },
+  {
+    "hour": 2,
+    "nb_posts": 1583,
+    "avg_comments": 3.4226152874289326,
+    "total_comments": 5418
+  },
+  {
+    "hour": 3,
+    "nb_posts": 984,
+    "avg_comments": 1.5548780487804879,
+    "total_comments": 1530
+  },
+  {
+    "hour": 4,
+    "nb_posts": 1282,
+    "avg_comments": 0.0,
+    "total_comments": 0
+  },
+  {
+    "hour": 5,
+    "nb_posts": 1387,
+    "avg_comments": 0.003604902667627974,
+    "total_comments": 5
+  },
+  {
+    "hour": 6,
+    "nb_posts": 1934,
+    "avg_comments": 0.2249224405377456,
+    "total_comments": 435
+  },
+  {
+    "hour": 7,
+    "nb_posts": 0,
+    "avg_comments": 0.0,
+    "total_comments": 0
+  },
+  {
+    "hour": 8,
+    "nb_posts": 170,
+    "avg_comments": 7.8,
+    "total_comments": 1326
+  },
+  {
+    "hour": 9,
+    "nb_posts": 235,
+    "avg_comments": 9.493617021276595,
+    "total_comments": 2231
+  },
+  {
+    "hour": 10,
+    "nb_posts": 233,
+    "avg_comments": 18.61802575107296,
+    "total_comments": 4338
+  },
+  {
+    "hour": 11,
+    "nb_posts": 271,
+    "avg_comments": 17.782287822878228,
+    "total_comments": 4819
+  },
+  {
+    "hour": 12,
+    "nb_posts": 266,
+    "avg_comments": 17.417293233082706,
+    "total_comments": 4633
+  },
+  {
+    "hour": 13,
+    "nb_posts": 269,
+    "avg_comments": 13.423791821561338,
+    "total_comments": 3611
+  },
+  {
+    "hour": 14,
+    "nb_posts": 463,
+    "avg_comments": 10.190064794816415,
+    "total_comments": 4718
+  },
+  {
+    "hour": 15,
+    "nb_posts": 513,
+    "avg_comments": 18.71345029239766,
+    "total_comments": 9600
+  },
+  {
+    "hour": 16,
+    "nb_posts": 522,
+    "avg_comments": 16.766283524904214,
+    "total_comments": 8752
+  },
+  {
+    "hour": 17,
+    "nb_posts": 6066,
+    "avg_comments": 0.9754368611935378,
+    "total_comments": 5917
+  },
+  {
+    "hour": 18,
+    "nb_posts": 212,
+    "avg_comments": 10.85377358490566,
+    "total_comments": 2301
+  },
+  {
+    "hour": 19,
+    "nb_posts": 77,
+    "avg_comments": 9.688311688311689,
+    "total_comments": 746
+  },
+  {
+    "hour": 20,
+    "nb_posts": 0,
+    "avg_comments": 0.0,
+    "total_comments": 0
+  },
+  {
+    "hour": 21,
+    "nb_posts": 169,
+    "avg_comments": 48.514792899408285,
+    "total_comments": 8199
+  },
+  {
+    "hour": 22,
+    "nb_posts": 1462,
+    "avg_comments": 12.40424076607387,
+    "total_comments": 18135
+  },
+  {
+    "hour": 23,
+    "nb_posts": 207,
+    "avg_comments": 24.02415458937198,
+    "total_comments": 4973
+  }
+]
