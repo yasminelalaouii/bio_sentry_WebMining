@@ -1,1 +1,15 @@
-.env *.env __pycache__/ *.pyc node_modules/ deploy/.git/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables / secrets
+.env
+*.env
+
+# Node.js
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
